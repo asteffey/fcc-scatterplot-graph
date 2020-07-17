@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-scatterplot-graph/static/css/main.ee0ef14c.chunk.css",
+    "main.js": "/fcc-scatterplot-graph/static/js/main.59a89d77.chunk.js",
+    "main.js.map": "/fcc-scatterplot-graph/static/js/main.59a89d77.chunk.js.map",
+    "runtime-main.js": "/fcc-scatterplot-graph/static/js/runtime-main.da41fe17.js",
+    "runtime-main.js.map": "/fcc-scatterplot-graph/static/js/runtime-main.da41fe17.js.map",
+    "static/js/2.c8b91fd0.chunk.js": "/fcc-scatterplot-graph/static/js/2.c8b91fd0.chunk.js",
+    "static/js/2.c8b91fd0.chunk.js.map": "/fcc-scatterplot-graph/static/js/2.c8b91fd0.chunk.js.map",
+    "index.html": "/fcc-scatterplot-graph/index.html",
+    "precache-manifest.61d0240d0727c3f65d5acfcc85dd174c.js": "/fcc-scatterplot-graph/precache-manifest.61d0240d0727c3f65d5acfcc85dd174c.js",
+    "service-worker.js": "/fcc-scatterplot-graph/service-worker.js",
+    "static/css/main.ee0ef14c.chunk.css.map": "/fcc-scatterplot-graph/static/css/main.ee0ef14c.chunk.css.map",
+    "static/js/2.c8b91fd0.chunk.js.LICENSE.txt": "/fcc-scatterplot-graph/static/js/2.c8b91fd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da41fe17.js",
+    "static/js/2.c8b91fd0.chunk.js",
+    "static/css/main.ee0ef14c.chunk.css",
+    "static/js/main.59a89d77.chunk.js"
+  ]
+}
